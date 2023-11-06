@@ -421,5 +421,5 @@ We strongly warn against the use of the XVERSE-7B model for producing or spreadi
 
 The use of the source code in this repository must follow the [Apache-2.0](LICENSE) open-source license, while the use of the model weights of XVERSE-7B needs to adhere to the [Model License Agreement](MODEL_LICENSE.pdf).
 
-The XVERSE-7B model weights are **fully open** to academic research and support **free commercial use**. Commercial use requires an application for a commercial use license by sending an email to <opensource@xverse.cn>.
+The XVERSE-7B model weights are **fully open** to academic research and support **free commercial use**.  To apply for a commercial license, please fill in the [application form](https://chat.xverse.cn/home/business.html). For other questions or collaborations, please contact <opensource@xverse.cn>.
 

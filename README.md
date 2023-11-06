@@ -419,5 +419,5 @@ XVERSE-7B 与其他所有 LLM 一样，在某些情况下可能会产生不准�
 
 使用本仓库的源码需要遵循 [Apache-2.0](LICENSE) 开源协议，使用 XVERSE-7B 的模型权重则需要遵循[模型许可协议](MODEL_LICENSE.pdf)。
 
-XVERSE-7B 模型权重对学术研究**完全开放**，并且支持**免费商用**。如需商用请填写《模型许可协议》末尾的**商用申请表**，发送邮件到 <opensource@xverse.cn> 进行申请。
+XVERSE-7B 模型权重对学术研究**完全开放**，并且支持**免费商用**。如需申请商业许可证，请填写【[申请表](https://chat.xverse.cn/home/business.html)】，如有其他问题或合作，请联系 <opensource@xverse.cn>。
 
