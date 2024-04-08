@@ -7,6 +7,7 @@
 <p align="center">
         <a href="https://huggingface.co/xverse/XVERSE-7B">🤗 XVERSE-7B</a>&nbsp｜&nbsp<a href="https://huggingface.co/xverse/XVERSE-7B-Chat">🤗 XVERSE-7B-Chat</a>&nbsp｜&nbsp
         <a href="https://modelscope.cn/organization/xverse" rel="nofollow"><img src="resources/modelscope.png" width="20px" style="max-width: 100%;"> ModelScope</a>&nbsp｜&nbsp
+        <a href="https://openxlab.org.cn/models/detail/xverse/XVERSE-7B">🧰 OpenXLab</a>&nbsp｜&nbsp
         <a href="resources/wechat.png">💬 微信社区</a>
 </p>
 
